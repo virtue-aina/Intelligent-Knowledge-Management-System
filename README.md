@@ -86,7 +86,7 @@ This project aims to create an intelligent knowledge management system that leve
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/knowledge-management-system.git
+   git clone https://github.com/virtue-aina/knowledge-management-system.git
    cd knowledge-management-system
    ```
 
@@ -96,12 +96,7 @@ This project aims to create an intelligent knowledge management system that leve
    ./gradlew bootRun
    ```
 
-3. Set up the frontend:
-   ```sh
-   cd frontend
-   npm install
-   npm start
-   ```
+
 
 ### Configuration
 - Update the `application.properties` file with your database and other service configurations.
