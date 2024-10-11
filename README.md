@@ -86,7 +86,7 @@ This project aims to create an intelligent knowledge management system that leve
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/virtue-aina/knowledge-management-system.git
+   git clone https://github.com/virtue-aina/intelligent-knowledge-management-system.git
    cd knowledge-management-system
    ```
 
