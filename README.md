@@ -72,6 +72,7 @@ This project aims to create an intelligent knowledge management system that leve
 - Automated insights generation
 - Collaborative knowledge curation features
 - Natural language querying and chatbot integration
+- Creation of user-friendly frontend with TypeScript and React for seamless interaction
 
 ## Getting Started
 
